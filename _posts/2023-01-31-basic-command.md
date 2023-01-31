@@ -3,10 +3,8 @@ layout: single
 title: "0.업데이트 내역 실시간으로 확인하기!"
 categories: github
 tag: [github, blog, command]
-toc: true
+
 author_profile: false
-sidebar:
-    nav: "docs"
 search: true
 published: true
 ---
@@ -35,3 +33,9 @@ published: true
     <li> 오류 발생 시  : "bundle add webrick"</li>
 </u1>
 </div>
+
+
+
+
+
+![PNC로고]({{site.url\images\2023-01-31-basic-command\PNC로고.png)
