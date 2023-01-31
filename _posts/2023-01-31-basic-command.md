@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "0. 업데이트 내역 실시간으로 확인하기!"
+title: "0.업데이트 내역 실시간으로 확인하기!"
 categories: github
 tag: [github, blog, command]
 toc: true
@@ -13,13 +13,13 @@ published: true
 
 # 실시간 업데이트 설정!
 
-#### QuickStartGuide
+#### - QuickStartGuide
 [QuickStartGuide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/){: .btn .btn--info}
 
-#### button
+#### - button
 [button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#buttons){: .btn .btn--info}
 
-#### 로컬서버 확인
+#### - 로컬서버 확인
 [로컬서버](http://localhost:4000/){: .btn .btn--info}
 
 
