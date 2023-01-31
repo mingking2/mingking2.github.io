@@ -38,4 +38,4 @@ published: true
 
 
 
-![PNC로고]({{site.url\images\2023-01-31-basic-command\PNC로고.png)
+![PNC로고]({{site.url}}\images\2023-01-31-basic-command\PNC로고.png)
