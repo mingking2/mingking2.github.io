@@ -26,11 +26,10 @@ docs:
         url: /tags/
 
 counts:
-  - title: "카테고리"
+    - title: "카테고리"
       use: true
-  - title: "태그"
+    - title: "태그"
       use: true
-
       
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
