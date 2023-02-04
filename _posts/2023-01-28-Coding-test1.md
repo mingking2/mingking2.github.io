@@ -91,7 +91,7 @@ sidebar:
 
 
 |유저 ID|유저가 신고한 ID|정지된 ID|
-|-------|-----------------|----|
+|:------|:----------------|----|
 |"muzi"|["frodo", "neo"]|["frodo", "neo"]|
 |"frodo"|["neo"]|["neo"]|
 |"apeach"|["muzi", "frodo"]|["frodo"]|
@@ -127,7 +127,7 @@ sidebar:
 
 #### 입출력 예
 |id_list|report|k|result|
-|-------|-----------------|----|----|
+|:-----:|:---------------:|----|:--:|
 |["muzi", "frodo", "apeach", "neo"]|["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"]|2|[2,1,1,0]|
 |["con", "ryan"]|["ryan con", "ryan con", "ryan con", "ryan con"]|3|[0,0]|
 
