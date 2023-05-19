@@ -1,3 +1,15 @@
+---
+layout: single
+title: "[JS] javaScript Study"
+categories: javaScript
+tag: [JS, HTML, CSS, WEB]
+
+toc: true
+author_profile: false
+sidebar:
+    nav: "counts"
+---
+
 # 📖 모던 자바스크립트 Deep Dive
 
 ![**모던 자바스크립트 Deep Dive (이웅모 저)**](%F0%9F%93%96%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A5%E1%86%AB%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%20Deep%20Dive%202817ff98978a42ecb503935d5a944375/Untitled.png)

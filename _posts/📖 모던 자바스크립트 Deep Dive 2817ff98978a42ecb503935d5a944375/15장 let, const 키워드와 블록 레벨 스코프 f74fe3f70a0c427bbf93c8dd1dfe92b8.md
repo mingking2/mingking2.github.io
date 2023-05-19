@@ -1,3 +1,15 @@
+---
+layout: single
+title: "[JS] javaScript Study 15"
+categories: javaScript
+tag: [JS, HTML, CSS, WEB]
+
+toc: true
+author_profile: false
+sidebar:
+    nav: "counts"
+---
+
 # 15장 let, const 키워드와 블록 레벨 스코프
 
 # 15.1 var 키워드로 선언한 변수의 문제점
